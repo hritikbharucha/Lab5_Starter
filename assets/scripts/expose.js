@@ -32,6 +32,7 @@ function hornSelection() {
 function volumeSelection() {
   const volume = document.getElementById('volume');
   const volumeImage = document.querySelector('#volume-controls img');
+  const hornAudio = document.querySelector('#expose audio');
 
   volume.addEventListener('change', () => {
     const volumeLevel = volume.value;
