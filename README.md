@@ -1,3 +1,5 @@
 # Lab 5 - Starter
-Hritik Bharucha
-Sujen Kancherla
+
+Names:
+1. Hritik Bharucha
+2. Sujen Kancherla
